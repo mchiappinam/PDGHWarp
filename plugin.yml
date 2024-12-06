@@ -1,0 +1,10 @@
+name: PDGHWarp
+main: me.mchiappinam.pdghwarp.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/ & https://hostload.com.br/
+commands:
+   warp:
+      aliases: [warps,teleporte,teleportes,lugar,lugares,local,locais,ir]
+      description: Info.
+      usage: /<command>
